@@ -144,12 +144,12 @@ p {
     }
 
     .side:hover, .side:focus {
-        transform: translateY(none);
-        transition: none;
+        transform: none;
+        transition: .5s;
     }
 
     .box:hover, .box:focus {
-        transform: translateY(none);
-        transition: none;
+        transform: none;
+        transition: .5s;
     }
 }
