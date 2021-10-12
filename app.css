@@ -142,4 +142,14 @@ p {
         margin-top: 0;
         margin-bottom: 50px;
     }
+
+    .side:hover, .side:focus {
+        transform: translateY(none);
+        transition: none;
+    }
+
+    .box:hover, .box:focus {
+        transform: translateY(none);
+        transition: none;
+    }
 }
