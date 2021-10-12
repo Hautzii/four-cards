@@ -27,7 +27,7 @@ span {
     font-weight: 600;
 }
 
-h2 {
+h3 {
     color: hsl(234, 12%, 34%);
 }
 
@@ -80,7 +80,7 @@ p {
     background-color: hsl(212, 86%, 64%);
 }
 
-.box h2 {
+.box h3 {
     margin: 0;
 }
 
